@@ -1,0 +1,9 @@
+﻿db name="myproject"
+table name="users"
+and create 3 columns
+first is username
+second is email
+third is password
+
+
+go
